@@ -7,6 +7,7 @@ On the server-side used JSON to send info of the computers RPS pick, so the play
 
 To run:
 
+
 1.go to file directory
-2. npm install
-3.node app.js
+2.npm install
+3.node rps_server.js
